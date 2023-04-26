@@ -32,7 +32,7 @@ You also need to print out the steps of each starting number as well as these fi
 examples below: start, steps, max, odds, evens.
 
 
-
+### Versions
 The **prog6** folder contains a version of the project that uses the integer data type. 
 
 The **prog7** folder contains a version of the project that creates and implements its own BigInt class using a vector of characters.
