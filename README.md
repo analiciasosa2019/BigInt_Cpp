@@ -1,7 +1,7 @@
 # BigInt_Cpp
 Exploring the 3n + 1 problem known as the Collatz Conjecture
 
-### Introduction
+## Introduction
 The Collatz conjecture is one of the most famous unsolved problems in mathematics. The conjecture asks whether
 repeating two simple arithmetic operations will eventually transform every positive integer into 1. It
 concerns sequences of integers in which each term is obtained from the previous term as follows:
@@ -11,7 +11,7 @@ If the previous term is even, the next term is one half of the previous term.
 If the previous term is odd, the next term is 3 times the previous term plus 1.
 
 
-### Program Requirements
+## Program Requirements
 Your program source code will be called threeN.cpp
 
 The executable will be called threeN
@@ -32,7 +32,7 @@ You also need to print out the steps of each starting number as well as these fi
 examples below: start, steps, max, odds, evens.
 
 
-### Versions
+## Versions
 The **prog6** folder contains a version of the project that uses the integer data type. 
 
 The **prog7** folder contains a version of the project that creates and implements its own BigInt class using a vector of characters.
